@@ -6,5 +6,12 @@
   "type": "module",
   "scripts": {
     "start": "node readmeUpdate.js"
-  }
+  },
+  "name": "mkk00",
+  "description": "<img src=\"https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=mkk&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend%20Developer%20―&descAlign=60&descAlignY=44&section=header\" />",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

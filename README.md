@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=Frontend%20Developer%20mkk&fontSize=60&section=header" />
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=mkk&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend%20Developer%20―&descAlign=60&descAlignY=44&section=header" />
 
 ## 🙌🏻 Contact Me
 [![Tistory](https://img.shields.io/badge/Tistory-100000?style=for-the-badge&logo=tistory&logoColor=white)](https://ramincoding.tistory.com/)
@@ -20,7 +19,7 @@
 ![React_Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![emotion](https://img.shields.io/badge/emotion-C968BC?style=for-the-badge&logo=emotion-styled&logoColor=white)
-![styled--components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logoColor=white)
+![styled--components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 <br/>
 

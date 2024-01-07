@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "main": "readmeUpdate.js",
+  "type": "module",
+  "scripts": {
+    "start": "node readmeUpdate.js"
+  }
+}

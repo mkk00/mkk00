@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=mkk&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend%20Developer%20―&descAlign=60&descAlignY=44&section=header" />
-
 ## 🙌🏻 Contact Me
 [![Tistory](https://img.shields.io/badge/Tistory-100000?style=for-the-badge&logo=tistory&logoColor=white)](https://ramincoding.tistory.com/)
 ![Naver](https://img.shields.io/badge/it1210@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)

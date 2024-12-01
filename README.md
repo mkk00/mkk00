@@ -39,6 +39,7 @@
 - Data Fetching
   
   ![tanstack-query](https://img.shields.io/badge/tanstack--query-FF4154?style=for-the-badge&logo=reactQuery&logoColor=white)
+  ![axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
   
 - Test
 

@@ -24,7 +24,7 @@
   
   ![styled--components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![emotion](https://img.shields.io/badge/emotion-C968BC?style=for-the-badge&logo=emotion-styled&logoColor=white)
-  ![twin.macro](https://img.shields.io/badge/twin.macro-9146FF?style=for-the-badge&logo=emotion-styled&logoColor=white)
+  ![tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 - UI Component Library
 

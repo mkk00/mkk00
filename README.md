@@ -24,35 +24,37 @@
   
   ![styled--components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![emotion](https://img.shields.io/badge/emotion-C968BC?style=for-the-badge&logo=emotion-styled&logoColor=white)
-  ![tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-- UI Component Library
-
-  ![mui](https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
   
 - State Management
   
   ![zustand](https://img.shields.io/badge/zustand-f7a904?style=for-the-badge&logo=zustand&logoColor=white)
-  ![jotai](https://img.shields.io/badge/jotai-000?style=for-the-badge&logo=jotai&logoColor=white)
   ![Redux--ToolKit](https://img.shields.io/badge/Redux--ToolKit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  <!--  ![jotai](https://img.shields.io/badge/jotai-000?style=for-the-badge&logo=jotai&logoColor=white) -->
 
 - Data Fetching
-  
+
+    ![axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+<!--  
   ![tanstack-query](https://img.shields.io/badge/tanstack--query-FF4154?style=for-the-badge&logo=reactQuery&logoColor=white)
-  ![axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+-->
+
+
   
-- Test
+<!-- - Test
 
   ![jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+-->
 
 - Server
   
   ![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=Supabase&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
+<!--
 - Big Data Visualization
 
-  ![Splunk](https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+-->
 
 - Design Tool
 

@@ -4,7 +4,6 @@
 
 ## 🙌🏻 Contact Me
 [![Tistory](https://img.shields.io/badge/tech_blog-100000?style=for-the-badge&logo=tistory&logoColor=white)](https://ramincoding.tistory.com/)
-![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <br/>
 
@@ -24,6 +23,7 @@
   
   ![styled--components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![emotion](https://img.shields.io/badge/emotion-C968BC?style=for-the-badge&logo=emotion-styled&logoColor=white)
+  ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
   
 - State Management
   
@@ -31,9 +31,13 @@
   ![Redux--ToolKit](https://img.shields.io/badge/Redux--ToolKit-593D88?style=for-the-badge&logo=redux&logoColor=white)
   <!--  ![jotai](https://img.shields.io/badge/jotai-000?style=for-the-badge&logo=jotai&logoColor=white) -->
 
+<!--
 - Data Fetching
+-->
 
+<!--
     ![axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+-->
 <!--  
   ![tanstack-query](https://img.shields.io/badge/tanstack--query-FF4154?style=for-the-badge&logo=reactQuery&logoColor=white)
 -->
@@ -50,11 +54,11 @@
   ![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=Supabase&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-<!--
+
 - Big Data Visualization
 
-![Splunk](https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
--->
+  ![Splunk](https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
 
 - Design Tool
 
